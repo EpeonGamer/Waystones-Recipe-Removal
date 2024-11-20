@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "return_scrolls",
+    "pattern": [
+      "SS",
+      "EE"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:ender_eye"
+      },
+      "E": {
+        "item": "minecraft:lead"
+      }
+    },
+    "result": {
+      "item": "waystones:return_scroll",
+      "count": 2
+    },
+    "show_notification": false
+  }
+  

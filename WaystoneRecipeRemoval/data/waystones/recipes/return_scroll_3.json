@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "return_scrolls",
+    "pattern": [
+      "XSX",
+      "EXE",
+      "SES"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:vine"
+      },
+      "E": {
+        "item": "minecraft:bamboo"
+      },
+      "X": {
+        "item": "minecraft:jukebox"
+      }
+    },
+    "result": {
+      "item": "waystones:return_scroll",
+      "count": 3
+    },
+    "show_notification": false
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "return_scrolls",
+    "pattern": [
+      "SS",
+      "EE"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:white_candle"
+      },
+      "E": {
+        "item": "minecraft:bell"
+      }
+    },
+    "result": {
+      "item": "waystones:return_scroll",
+      "count": 2
+    },
+    "show_notification": false
+  }
+  
